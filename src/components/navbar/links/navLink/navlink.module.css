@@ -1,5 +1,5 @@
 .container {
-    min-width: 100;
+    min-width: 100px;
     padding: 10px;
     border-radius: 20px;
     font-weight: 500;
@@ -7,5 +7,6 @@
 
 }
 .active {
-
+background-color: var(--text);
+color: var(--bg)
 }
