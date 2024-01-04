@@ -28,8 +28,8 @@
         display: flex;
         flex-direction: column;
         align-items: center;
+        background-color: var(--bg);
         justify-content: center;
-        background-color: red;
         gap: 10px;
     }
     .menuButton {
