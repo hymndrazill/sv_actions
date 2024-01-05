@@ -1,0 +1,11 @@
+
+  .github{
+    width: 100%;
+    padding: 20px;
+    cursor: pointer;
+    background-color: #fff;
+    color: #000;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+  }
